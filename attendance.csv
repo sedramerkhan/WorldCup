@@ -1,0 +1,965 @@
+home_team,away_team,Attendance,Date
+Argentina,France,88966,12/18/2022
+Croatia,Morocco,44137,12/17/2022
+France,Morocco,68294,12/14/2022
+Argentina,Croatia,88966,12/13/2022
+Morocco,Portugal,44198,12/10/2022
+England,France,68895,12/10/2022
+Croatia,Brazil,43893,12/9/2022
+Netherlands,Argentina,88235,12/9/2022
+Morocco,Spain,44667,12/6/2022
+Portugal,Switzerland,83720,12/6/2022
+Japan,Croatia,42523,12/5/2022
+Brazil,Korea Republic,43847,12/5/2022
+France,Poland,40989,12/4/2022
+England,Senegal,65985,12/4/2022
+Netherlands,United States,44846,12/3/2022
+Argentina,Australia,45032,12/3/2022
+Korea Republic,Portugal,44097,12/2/2022
+Ghana,Uruguay,43443,12/2/2022
+Cameroon,Brazil,85986,12/2/2022
+Serbia,Switzerland,41378,12/2/2022
+Canada,Morocco,43102,12/1/2022
+Croatia,Belgium,43984,12/1/2022
+Costa Rica,Germany,67054,12/1/2022
+Japan,Spain,44851,12/1/2022
+Australia,Denmark,41232,11/30/2022
+Tunisia,France,43627,11/30/2022
+Saudi Arabia,Mexico,84985,11/30/2022
+Poland,Argentina,44089,11/30/2022
+Ecuador,Senegal,44569,11/29/2022
+Netherlands,Qatar,66784,11/29/2022
+IR Iran,United States,42127,11/29/2022
+Wales,England,44297,11/29/2022
+Cameroon,Serbia,39789,11/28/2022
+Korea Republic,Ghana,43983,11/28/2022
+Brazil,Switzerland,43649,11/28/2022
+Portugal,Uruguay,88668,11/28/2022
+Japan,Costa Rica,41479,11/27/2022
+Belgium,Morocco,43738,11/27/2022
+Croatia,Canada,44374,11/27/2022
+Spain,Germany,68895,11/27/2022
+Tunisia,Australia,41823,11/26/2022
+Poland,Saudi Arabia,44259,11/26/2022
+France,Denmark,42860,11/26/2022
+Argentina,Mexico,88966,11/26/2022
+Wales,IR Iran,40875,11/25/2022
+Qatar,Senegal,41797,11/25/2022
+Netherlands,Ecuador,44833,11/25/2022
+England,United States,68463,11/25/2022
+Switzerland,Cameroon,39089,11/24/2022
+Uruguay,Korea Republic,41663,11/24/2022
+Portugal,Ghana,42662,11/24/2022
+Brazil,Serbia,88103,11/24/2022
+Morocco,Croatia,59407,11/23/2022
+Germany,Japan,42608,11/23/2022
+Spain,Costa Rica,40013,11/23/2022
+Belgium,Canada,40432,11/23/2022
+Argentina,Saudi Arabia,88012,11/22/2022
+Denmark,Tunisia,42925,11/22/2022
+Mexico,Poland,39369,11/22/2022
+France,Australia,40875,11/22/2022
+England,IR Iran,45334,11/21/2022
+Senegal,Netherlands,41721,11/21/2022
+United States,Wales,43418,11/21/2022
+Qatar,Ecuador,67372,11/20/2022
+France,Croatia,78011,7/15/2018
+Belgium,England,64406,7/14/2018
+Croatia,England,78011,7/11/2018
+France,Belgium,64286,7/10/2018
+Sweden,England,39991,7/7/2018
+Russia,Croatia,44287,7/7/2018
+Uruguay,France,43319,7/6/2018
+Brazil,Belgium,42873,7/6/2018
+Sweden,Switzerland,64042,7/3/2018
+Colombia,England,44190,7/3/2018
+Brazil,Mexico,41970,7/2/2018
+Belgium,Japan,41466,7/2/2018
+Spain,Russia,78011,7/1/2018
+Croatia,Denmark,40851,7/1/2018
+France,Argentina,42873,6/30/2018
+Uruguay,Portugal,44287,6/30/2018
+Japan,Poland,42189,6/28/2018
+Senegal,Colombia,41970,6/28/2018
+England,Belgium,33973,6/28/2018
+Panama,Tunisia,37168,6/28/2018
+Korea Republic,Germany,41835,6/27/2018
+Mexico,Sweden,33061,6/27/2018
+Switzerland,Costa Rica,43319,6/27/2018
+Serbia,Brazil,44190,6/27/2018
+Australia,Peru,44073,6/26/2018
+Denmark,France,78011,6/26/2018
+Iceland,Croatia,43472,6/26/2018
+Nigeria,Argentina,64468,6/26/2018
+Saudi Arabia,Egypt,36823,6/25/2018
+Uruguay,Russia,41970,6/25/2018
+Spain,Morocco,33973,6/25/2018
+IR Iran,Portugal,41685,6/25/2018
+England,Panama,43319,6/24/2018
+Japan,Senegal,32572,6/24/2018
+Poland,Colombia,42873,6/24/2018
+Belgium,Tunisia,44190,6/23/2018
+Korea Republic,Mexico,43472,6/23/2018
+Germany,Sweden,44287,6/23/2018
+Brazil,Costa Rica,64468,6/22/2018
+Nigeria,Iceland,40904,6/22/2018
+Serbia,Switzerland,33167,6/22/2018
+Denmark,Australia,40727,6/21/2018
+France,Peru,32789,6/21/2018
+Argentina,Croatia,43319,6/21/2018
+Portugal,Morocco,78011,6/20/2018
+Uruguay,Saudi Arabia,42678,6/20/2018
+IR Iran,Spain,42718,6/20/2018
+Colombia,Japan,40842,6/19/2018
+Poland,Senegal,44190,6/19/2018
+Russia,Egypt,64468,6/19/2018
+Sweden,Korea Republic,42300,6/18/2018
+Belgium,Panama,43257,6/18/2018
+Tunisia,England,41064,6/18/2018
+Costa Rica,Serbia,41432,6/17/2018
+Germany,Mexico,78011,6/17/2018
+Brazil,Switzerland,43109,6/17/2018
+France,Australia,41279,6/16/2018
+Argentina,Iceland,44190,6/16/2018
+Peru,Denmark,40502,6/16/2018
+Croatia,Nigeria,31136,6/16/2018
+Egypt,Uruguay,27015,6/15/2018
+Morocco,IR Iran,62548,6/15/2018
+Portugal,Spain,43866,6/15/2018
+Russia,Saudi Arabia,78011,6/14/2018
+Germany,Argentina,74738,7/13/2014
+Brazil,Netherlands,68034,7/12/2014
+Netherlands,Argentina,63267,7/9/2014
+Brazil,Germany,58141,7/8/2014
+Argentina,Belgium,68551,7/5/2014
+Netherlands,Costa Rica,51179,7/5/2014
+France,Germany,74240,7/4/2014
+Brazil,Colombia,60342,7/4/2014
+Argentina,Switzerland,63255,7/1/2014
+Belgium,United States,51227,7/1/2014
+France,Nigeria,67882,6/30/2014
+Germany,Algeria,43063,6/30/2014
+Netherlands,Mexico,58817,6/29/2014
+Costa Rica,Greece,41242,6/29/2014
+Brazil,Chile,57714,6/28/2014
+Colombia,Uruguay,73804,6/28/2014
+United States,Germany,41876,6/26/2014
+Portugal,Ghana,67540,6/26/2014
+Korea Republic,Belgium,61397,6/26/2014
+Algeria,Russia,39311,6/26/2014
+Bosnia and Herzegovina,IR Iran,48011,6/25/2014
+Nigeria,Argentina,43285,6/25/2014
+Honduras,Switzerland,40322,6/25/2014
+Ecuador,France,73749,6/25/2014
+Costa Rica,England,57823,6/24/2014
+Italy,Uruguay,39706,6/24/2014
+Japan,Colombia,40340,6/24/2014
+Greece,Côte d'Ivoire,59095,6/24/2014
+Australia,Spain,39375,6/23/2014
+Netherlands,Chile,62996,6/23/2014
+Croatia,Mexico,41212,6/23/2014
+Cameroon,Brazil,69112,6/23/2014
+Belgium,Russia,73819,6/22/2014
+Korea Republic,Algeria,42732,6/22/2014
+United States,Portugal,40123,6/22/2014
+Argentina,IR Iran,57698,6/21/2014
+Germany,Ghana,59621,6/21/2014
+Nigeria,Bosnia and Herzegovina,40499,6/21/2014
+Italy,Costa Rica,40285,6/20/2014
+Switzerland,France,51003,6/20/2014
+Honduras,Ecuador,39224,6/20/2014
+Colombia,Côte d'Ivoire,68748,6/19/2014
+Uruguay,England,62575,6/19/2014
+Japan,Greece,39485,6/19/2014
+Australia,Netherlands,42877,6/18/2014
+Spain,Chile,74101,6/18/2014
+Cameroon,Croatia,39982,6/18/2014
+Belgium,Algeria,56800,6/17/2014
+Brazil,Mexico,60342,6/17/2014
+Russia,Korea Republic,37603,6/17/2014
+Germany,Portugal,51081,6/16/2014
+IR Iran,Nigeria,39081,6/16/2014
+Ghana,United States,39760,6/16/2014
+Switzerland,Ecuador,68351,6/15/2014
+France,Honduras,43012,6/15/2014
+Argentina,Bosnia and Herzegovina,74738,6/15/2014
+Colombia,Greece,57174,6/14/2014
+Uruguay,Costa Rica,58679,6/14/2014
+England,Italy,39800,6/14/2014
+Côte d'Ivoire,Japan,40267,6/14/2014
+Mexico,Cameroon,39216,6/13/2014
+Spain,Netherlands,48173,6/13/2014
+Chile,Australia,40275,6/13/2014
+Brazil,Croatia,62103,6/12/2014
+Netherlands,Spain,84490,7/11/2010
+Uruguay,Germany,36254,7/10/2010
+Germany,Spain,60960,7/7/2010
+Uruguay,Netherlands,62479,7/6/2010
+Argentina,Germany,64100,7/3/2010
+Paraguay,Spain,55359,7/3/2010
+Netherlands,Brazil,40186,7/2/2010
+Uruguay,Ghana,84017,7/2/2010
+Paraguay,Japan,36742,6/29/2010
+Spain,Portugal,62955,6/29/2010
+Netherlands,Slovakia,61962,6/28/2010
+Brazil,Chile,54096,6/28/2010
+Germany,England,40510,6/27/2010
+Argentina,Mexico,84377,6/27/2010
+Uruguay,Korea Republic,30597,6/26/2010
+United States,Ghana,34976,6/26/2010
+Portugal,Brazil,62712,6/25/2010
+Korea DPR,Côte d'Ivoire,34763,6/25/2010
+Chile,Spain,41958,6/25/2010
+Switzerland,Honduras,28042,6/25/2010
+Paraguay,New Zealand,34850,6/24/2010
+Slovakia,Italy,53412,6/24/2010
+Denmark,Japan,27967,6/24/2010
+Cameroon,Netherlands,63093,6/24/2010
+Slovenia,England,36893,6/23/2010
+United States,Algeria,35827,6/23/2010
+Ghana,Germany,83391,6/23/2010
+Australia,Serbia,37836,6/23/2010
+Mexico,Uruguay,33425,6/22/2010
+France,South Africa,39415,6/22/2010
+Nigeria,Korea Republic,61874,6/22/2010
+Greece,Argentina,38891,6/22/2010
+Portugal,Korea DPR,63644,6/21/2010
+Chile,Switzerland,34872,6/21/2010
+Spain,Honduras,54386,6/21/2010
+Slovakia,Paraguay,26643,6/20/2010
+Italy,New Zealand,38229,6/20/2010
+Brazil,Côte d'Ivoire,84455,6/20/2010
+Netherlands,Japan,62010,6/19/2010
+Ghana,Australia,34812,6/19/2010
+Cameroon,Denmark,38074,6/19/2010
+Germany,Serbia,38294,6/18/2010
+Slovenia,United States,45573,6/18/2010
+England,Algeria,64100,6/18/2010
+Argentina,Korea Republic,82174,6/17/2010
+Greece,Nigeria,31593,6/17/2010
+France,Mexico,35370,6/17/2010
+Honduras,Chile,32664,6/16/2010
+Spain,Switzerland,62453,6/16/2010
+South Africa,Uruguay,42658,6/16/2010
+New Zealand,Slovakia,23871,6/15/2010
+Côte d'Ivoire,Portugal,37034,6/15/2010
+Brazil,Korea DPR,54331,6/15/2010
+Netherlands,Denmark,83465,6/14/2010
+Japan,Cameroon,30620,6/14/2010
+Italy,Paraguay,62869,6/14/2010
+Algeria,Slovenia,30325,6/13/2010
+Serbia,Ghana,38833,6/13/2010
+Germany,Australia,62660,6/13/2010
+Korea Republic,Greece,31513,6/12/2010
+Argentina,Nigeria,55686,6/12/2010
+England,United States,38646,6/12/2010
+South Africa,Mexico,84490,6/11/2010
+Uruguay,France,64100,6/11/2010
+Italy,France,69000,7/9/2006
+Germany,Portugal,52000,7/8/2006
+Portugal,France,66000,7/5/2006
+Germany,Italy,65000,7/4/2006
+England,Portugal,52000,7/1/2006
+Brazil,France,48000,7/1/2006
+Germany,Argentina,72000,6/30/2006
+Italy,Ukraine,50000,6/30/2006
+Brazil,Ghana,65000,6/27/2006
+Spain,France,43000,6/27/2006
+Italy,Australia,46000,6/26/2006
+Switzerland,Ukraine,45000,6/26/2006
+England,Ecuador,52000,6/25/2006
+Portugal,Netherlands,41000,6/25/2006
+Germany,Sweden,66000,6/24/2006
+Argentina,Mexico,43000,6/24/2006
+Saudi Arabia,Spain,46000,6/23/2006
+Ukraine,Tunisia,72000,6/23/2006
+Togo,France,45000,6/23/2006
+Switzerland,Korea Republic,43000,6/23/2006
+Ghana,United States,41000,6/22/2006
+Czech Republic,Italy,50000,6/22/2006
+Japan,Brazil,65000,6/22/2006
+Croatia,Australia,52000,6/22/2006
+Portugal,Mexico,52000,6/21/2006
+IR Iran,Angola,38000,6/21/2006
+Côte d'Ivoire,Serbia and Montenegro,66000,6/21/2006
+Netherlands,Argentina,48000,6/21/2006
+Costa Rica,Poland,43000,6/20/2006
+Ecuador,Germany,72000,6/20/2006
+Paraguay,Trinidad and Tobago,46000,6/20/2006
+Sweden,England,45000,6/20/2006
+Togo,Switzerland,65000,6/19/2006
+Saudi Arabia,Ukraine,50000,6/19/2006
+Spain,Tunisia,52000,6/19/2006
+Japan,Croatia,41000,6/18/2006
+Brazil,Australia,66000,6/18/2006
+France,Korea Republic,43000,6/18/2006
+Portugal,IR Iran,48000,6/17/2006
+Czech Republic,Ghana,45000,6/17/2006
+Italy,United States,46000,6/17/2006
+Argentina,Serbia and Montenegro,52000,6/16/2006
+Netherlands,Côte d'Ivoire,52000,6/16/2006
+Mexico,Angola,43000,6/16/2006
+Ecuador,Costa Rica,50000,6/15/2006
+England,Trinidad and Tobago,41000,6/15/2006
+Sweden,Paraguay,72000,6/15/2006
+Spain,Ukraine,43000,6/14/2006
+Tunisia,Saudi Arabia,66000,6/14/2006
+Germany,Poland,65000,6/14/2006
+Korea Republic,Togo,48000,6/13/2006
+France,Switzerland,52000,6/13/2006
+Brazil,Croatia,72000,6/13/2006
+Australia,Japan,46000,6/12/2006
+United States,Czech Republic,52000,6/12/2006
+Italy,Ghana,43000,6/12/2006
+Serbia and Montenegro,Netherlands,37216,6/11/2006
+Mexico,IR Iran,41000,6/11/2006
+Angola,Portugal,45000,6/11/2006
+England,Paraguay,48000,6/10/2006
+Trinidad and Tobago,Sweden,62959,6/10/2006
+Argentina,Côte d'Ivoire,49480,6/10/2006
+Germany,Costa Rica,64950,6/9/2006
+Poland,Ecuador,52000,6/9/2006
+Germany,Brazil,69029,6/30/2002
+Korea Republic,Türkiye,63483,6/29/2002
+Brazil,Türkiye,61058,6/26/2002
+Germany,Korea Republic,65625,6/25/2002
+Spain,Korea Republic,42114,6/22/2002
+Senegal,Türkiye,44233,6/22/2002
+England,Brazil,47436,6/21/2002
+Germany,United States,37337,6/21/2002
+Japan,Türkiye,45666,6/18/2002
+Korea Republic,Italy,38588,6/18/2002
+Mexico,United States,36380,6/17/2002
+Brazil,Belgium,40440,6/17/2002
+Sweden,Senegal,39747,6/16/2002
+Spain,Republic of Ireland,38926,6/16/2002
+Germany,Paraguay,25176,6/15/2002
+Denmark,England,40582,6/15/2002
+Tunisia,Japan,45213,6/14/2002
+Belgium,Russia,46640,6/14/2002
+Portugal,Korea Republic,50239,6/14/2002
+Poland,United States,26482,6/14/2002
+Costa Rica,Brazil,38524,6/13/2002
+Türkiye,China PR,43605,6/13/2002
+Mexico,Italy,39291,6/13/2002
+Ecuador,Croatia,65862,6/13/2002
+Sweden,Argentina,45777,6/12/2002
+Nigeria,England,44864,6/12/2002
+South Africa,Spain,31024,6/12/2002
+Slovenia,Paraguay,30176,6/12/2002
+Denmark,France,48100,6/11/2002
+Senegal,Uruguay,33681,6/11/2002
+Saudi Arabia,Republic of Ireland,65320,6/11/2002
+Cameroon,Germany,47085,6/11/2002
+Korea Republic,United States,60778,6/10/2002
+Tunisia,Belgium,39700,6/10/2002
+Portugal,Poland,31000,6/10/2002
+Mexico,Ecuador,45610,6/9/2002
+Costa Rica,Türkiye,42299,6/9/2002
+Japan,Russia,66108,6/9/2002
+South Africa,Slovenia,47226,6/8/2002
+Italy,Croatia,36472,6/8/2002
+Brazil,China PR,36750,6/8/2002
+Sweden,Nigeria,36194,6/7/2002
+Spain,Paraguay,24000,6/7/2002
+Argentina,England,35927,6/7/2002
+Denmark,Senegal,43500,6/6/2002
+Cameroon,Saudi Arabia,52328,6/6/2002
+France,Uruguay,38070,6/6/2002
+Russia,Tunisia,30957,6/5/2002
+United States,Portugal,37306,6/5/2002
+Germany,Republic of Ireland,35854,6/5/2002
+China PR,Costa Rica,27217,6/4/2002
+Japan,Belgium,55256,6/4/2002
+Korea Republic,Poland,48760,6/4/2002
+Croatia,Mexico,32239,6/3/2002
+Brazil,Türkiye,33842,6/3/2002
+Italy,Ecuador,31081,6/3/2002
+Argentina,Nigeria,34050,6/2/2002
+Paraguay,South Africa,25186,6/2/2002
+England,Sweden,52721,6/2/2002
+Spain,Slovenia,28588,6/2/2002
+Republic of Ireland,Cameroon,33679,6/1/2002
+Uruguay,Denmark,30157,6/1/2002
+Germany,Saudi Arabia,32218,6/1/2002
+France,Senegal,62561,5/31/2002
+Brazil,France,80000,7/12/1998
+Netherlands,Croatia,44000,7/11/1998
+France,Croatia,80000,7/8/1998
+Brazil,Netherlands,60000,7/7/1998
+Netherlands,Argentina,60000,7/4/1998
+Germany,Croatia,43300,7/4/1998
+Italy,France,80000,7/3/1998
+Brazil,Denmark,49500,7/3/1998
+Romania,Croatia,31800,6/30/1998
+Argentina,England,30600,6/30/1998
+Germany,Mexico,29800,6/29/1998
+Netherlands,FR Yugoslavia,33000,6/29/1998
+France,Paraguay,31800,6/28/1998
+Nigeria,Denmark,77000,6/28/1998
+Italy,Norway,55000,6/27/1998
+Brazil,Chile,45500,6/27/1998
+Argentina,Croatia,31800,6/26/1998
+Japan,Jamaica,39100,6/26/1998
+Romania,Tunisia,80000,6/26/1998
+Colombia,England,42000,6/26/1998
+Netherlands,Mexico,30600,6/25/1998
+Belgium,Korea Republic,45500,6/25/1998
+United States,FR Yugoslavia,38500,6/25/1998
+Germany,IR Iran,35500,6/25/1998
+South Africa,Saudi Arabia,31800,6/24/1998
+France,Denmark,39100,6/24/1998
+Spain,Bulgaria,41275,6/24/1998
+Nigeria,Paraguay,33400,6/24/1998
+Italy,Austria,80000,6/23/1998
+Chile,Cameroon,39500,6/23/1998
+Brazil,Norway,57000,6/23/1998
+Scotland,Morocco,36000,6/23/1998
+Colombia,Tunisia,35500,6/22/1998
+Romania,England,33140,6/22/1998
+Germany,FR Yugoslavia,41275,6/21/1998
+Argentina,Jamaica,45500,6/21/1998
+United States,IR Iran,43300,6/21/1998
+Japan,Croatia,35500,6/20/1998
+Belgium,Mexico,31800,6/20/1998
+Netherlands,Korea Republic,55000,6/20/1998
+Nigeria,Bulgaria,48000,6/19/1998
+Spain,Paraguay,36000,6/19/1998
+South Africa,Denmark,33500,6/18/1998
+France,Saudi Arabia,80000,6/18/1998
+Chile,Austria,36000,6/17/1998
+Italy,Cameroon,35500,6/17/1998
+Scotland,Norway,31800,6/16/1998
+Brazil,Morocco,38500,6/16/1998
+England,Tunisia,54587,6/15/1998
+Romania,Colombia,43300,6/15/1998
+Germany,United States,49000,6/15/1998
+Argentina,Japan,33500,6/14/1998
+FR Yugoslavia,IR Iran,36000,6/14/1998
+Jamaica,Croatia,38100,6/14/1998
+Spain,Nigeria,38000,6/13/1998
+Korea Republic,Mexico,39100,6/13/1998
+Netherlands,Belgium,77000,6/13/1998
+Paraguay,Bulgaria,27650,6/12/1998
+Saudi Arabia,Denmark,38100,6/12/1998
+France,South Africa,55000,6/12/1998
+Italy,Chile,35200,6/11/1998
+Cameroon,Austria,36500,6/11/1998
+Brazil,Scotland,80000,6/10/1998
+Morocco,Norway,29750,6/10/1998
+Brazil,Italy,94194,7/17/1994
+Sweden,Bulgaria,91500,7/16/1994
+Bulgaria,Italy,74110,7/13/1994
+Sweden,Brazil,91856,7/13/1994
+Bulgaria,Germany,72000,7/10/1994
+Romania,Sweden,83500,7/10/1994
+Italy,Spain,53400,7/9/1994
+Netherlands,Brazil,63500,7/9/1994
+Nigeria,Italy,54367,7/5/1994
+Mexico,Bulgaria,71030,7/5/1994
+Netherlands,Republic of Ireland,61355,7/4/1994
+Brazil,United States,84147,7/4/1994
+Saudi Arabia,Sweden,60277,7/3/1994
+Romania,Argentina,90469,7/3/1994
+Germany,Belgium,60246,7/2/1994
+Spain,Switzerland,53121,7/2/1994
+Greece,Nigeria,53001,6/30/1994
+Argentina,Bulgaria,63998,6/30/1994
+Morocco,Netherlands,60578,6/29/1994
+Belgium,Saudi Arabia,52959,6/29/1994
+Italy,Mexico,52535,6/28/1994
+Republic of Ireland,Norway,72404,6/28/1994
+Russia,Cameroon,74914,6/28/1994
+Brazil,Sweden,77217,6/28/1994
+Germany,Korea Republic,63998,6/27/1994
+Bolivia,Spain,63089,6/27/1994
+Bulgaria,Greece,63160,6/26/1994
+United States,Romania,93869,6/26/1994
+Switzerland,Colombia,83401,6/26/1994
+Belgium,Netherlands,62387,6/25/1994
+Saudi Arabia,Morocco,76322,6/25/1994
+Argentina,Nigeria,54453,6/25/1994
+Mexico,Republic of Ireland,60790,6/24/1994
+Brazil,Cameroon,83401,6/24/1994
+Sweden,Russia,71528,6/24/1994
+Italy,Norway,74624,6/23/1994
+Korea Republic,Bolivia,54453,6/23/1994
+Romania,Switzerland,61428,6/22/1994
+United States,Colombia,93869,6/22/1994
+Argentina,Greece,54456,6/21/1994
+Germany,Spain,63113,6/21/1994
+Nigeria,Bulgaria,44132,6/21/1994
+Brazil,Russia,81061,6/20/1994
+Netherlands,Saudi Arabia,50535,6/20/1994
+Belgium,Morocco,61219,6/19/1994
+Norway,Mexico,52395,6/19/1994
+Cameroon,Sweden,93194,6/19/1994
+United States,Switzerland,73425,6/18/1994
+Italy,Republic of Ireland,75338,6/18/1994
+Colombia,Romania,91856,6/18/1994
+Germany,Bolivia,63117,6/17/1994
+Spain,Korea Republic,56247,6/17/1994
+West Germany,Argentina,73603,7/8/1990
+Italy,England,51426,7/7/1990
+West Germany,England,62628,7/4/1990
+Italy,Argentina,59978,7/3/1990
+West Germany,Czechoslovakia,73347,7/1/1990
+England,Cameroon,55205,7/1/1990
+Yugoslavia,Argentina,38971,6/30/1990
+Italy,Republic of Ireland,73303,6/30/1990
+Spain,Yugoslavia,35500,6/26/1990
+England,Belgium,34520,6/26/1990
+Republic of Ireland,Romania,31818,6/25/1990
+Italy,Uruguay,73303,6/25/1990
+Brazil,Argentina,61381,6/24/1990
+West Germany,Netherlands,74559,6/24/1990
+Cameroon,Colombia,50026,6/23/1990
+Czechoslovakia,Costa Rica,47673,6/23/1990
+Belgium,Spain,35950,6/21/1990
+Korea Republic,Uruguay,29039,6/21/1990
+Republic of Ireland,Netherlands,33288,6/21/1990
+England,Egypt,34959,6/21/1990
+Sweden,Costa Rica,30223,6/20/1990
+Brazil,Scotland,62502,6/20/1990
+West Germany,Colombia,72510,6/19/1990
+Yugoslavia,United Arab Emirates,27833,6/19/1990
+Austria,United States,34857,6/19/1990
+Italy,Czechoslovakia,73303,6/19/1990
+Argentina,Romania,52733,6/18/1990
+Cameroon,Soviet Union,37307,6/18/1990
+Republic of Ireland,Egypt,33288,6/17/1990
+Belgium,Uruguay,33759,6/17/1990
+Korea Republic,Spain,32733,6/17/1990
+Brazil,Costa Rica,58007,6/16/1990
+England,Netherlands,35267,6/16/1990
+Sweden,Scotland,31823,6/16/1990
+Austria,Czechoslovakia,38962,6/15/1990
+West Germany,United Arab Emirates,71169,6/15/1990
+Yugoslavia,Colombia,32257,6/14/1990
+Cameroon,Romania,38687,6/14/1990
+Italy,United States,73423,6/14/1990
+Uruguay,Spain,35713,6/13/1990
+Argentina,Soviet Union,55759,6/13/1990
+Belgium,Korea Republic,32790,6/12/1990
+Netherlands,Egypt,33288,6/12/1990
+Costa Rica,Scotland,30867,6/11/1990
+England,Republic of Ireland,35238,6/11/1990
+United States,Czechoslovakia,33266,6/10/1990
+West Germany,Yugoslavia,74765,6/10/1990
+Brazil,Sweden,62628,6/10/1990
+United Arab Emirates,Colombia,30791,6/9/1990
+Soviet Union,Romania,42907,6/9/1990
+Italy,Austria,73303,6/9/1990
+Argentina,Cameroon,73780,6/8/1990
+Argentina,West Germany,114600,6/29/1986
+France,Belgium,21000,6/28/1986
+France,West Germany,45000,6/25/1986
+Argentina,Belgium,114500,6/25/1986
+Argentina,England,114580,6/22/1986
+Spain,Belgium,45000,6/22/1986
+Brazil,France,65000,6/21/1986
+West Germany,Mexico,41700,6/21/1986
+England,Paraguay,98728,6/18/1986
+Denmark,Spain,38500,6/18/1986
+Italy,France,70000,6/17/1986
+Morocco,West Germany,19800,6/17/1986
+Brazil,Poland,45000,6/16/1986
+Argentina,Uruguay,26000,6/16/1986
+Mexico,Bulgaria,114580,6/15/1986
+Soviet Union,Belgium,32277,6/15/1986
+Scotland,Uruguay,20000,6/13/1986
+Denmark,West Germany,36000,6/13/1986
+Algeria,Spain,23980,6/12/1986
+Northern Ireland,Brazil,51000,6/12/1986
+Paraguay,Belgium,16000,6/11/1986
+Iraq,Mexico,103763,6/11/1986
+England,Poland,22700,6/11/1986
+Portugal,Morocco,28000,6/11/1986
+Argentina,Bulgaria,65000,6/10/1986
+Korea Republic,Italy,20000,6/10/1986
+Soviet Union,Canada,14200,6/9/1986
+Hungary,France,31420,6/9/1986
+West Germany,Scotland,30000,6/8/1986
+Iraq,Belgium,20000,6/8/1986
+Denmark,Uruguay,26500,6/8/1986
+Mexico,Paraguay,114600,6/7/1986
+Northern Ireland,Spain,28000,6/7/1986
+Poland,Portugal,19915,6/7/1986
+Brazil,Algeria,48000,6/6/1986
+Hungary,Canada,13800,6/6/1986
+England,Morocco,20200,6/6/1986
+Italy,Argentina,32000,6/5/1986
+France,Soviet Union,36540,6/5/1986
+Korea Republic,Bulgaria,45000,6/5/1986
+Paraguay,Iraq,24000,6/4/1986
+Uruguay,West Germany,30500,6/4/1986
+Scotland,Denmark,18000,6/4/1986
+Belgium,Mexico,110000,6/3/1986
+Algeria,Northern Ireland,22000,6/3/1986
+Portugal,England,23000,6/3/1986
+Soviet Union,Hungary,16500,6/2/1986
+Argentina,Korea Republic,60000,6/2/1986
+Morocco,Poland,19900,6/2/1986
+Spain,Brazil,35748,6/1/1986
+Canada,France,65500,6/1/1986
+Bulgaria,Italy,96000,5/31/1986
+Italy,West Germany,90000,7/11/1982
+Poland,France,28000,7/10/1982
+Poland,Italy,50000,7/8/1982
+West Germany,France,70000,7/8/1982
+Italy,Brazil,44000,7/5/1982
+Spain,England,75000,7/5/1982
+France,Northern Ireland,37000,7/4/1982
+Poland,Soviet Union,65000,7/4/1982
+Argentina,Brazil,44000,7/2/1982
+West Germany,Spain,90089,7/2/1982
+Austria,Northern Ireland,20000,7/1/1982
+Belgium,Soviet Union,45000,7/1/1982
+Italy,Argentina,43000,6/29/1982
+West Germany,England,75000,6/29/1982
+Austria,France,37000,6/28/1982
+Poland,Belgium,65000,6/28/1982
+England,Kuwait,39700,6/25/1982
+West Germany,Austria,41000,6/25/1982
+Northern Ireland,Spain,49562,6/25/1982
+France,Czechoslovakia,28000,6/24/1982
+Algeria,Chile,16000,6/24/1982
+Honduras,Yugoslavia,25000,6/24/1982
+Italy,Cameroon,20000,6/23/1982
+Argentina,El Salvador,32500,6/23/1982
+Brazil,New Zealand,43000,6/23/1982
+Poland,Peru,25000,6/22/1982
+Belgium,Hungary,37000,6/22/1982
+Soviet Union,Scotland,45000,6/22/1982
+Algeria,Austria,22000,6/21/1982
+France,Kuwait,30043,6/21/1982
+Honduras,Northern Ireland,15000,6/21/1982
+West Germany,Chile,42000,6/20/1982
+England,Czechoslovakia,41123,6/20/1982
+Spain,Yugoslavia,48000,6/20/1982
+Poland,Cameroon,19000,6/19/1982
+Soviet Union,New Zealand,19000,6/19/1982
+Belgium,El Salvador,15000,6/19/1982
+Italy,Peru,25000,6/18/1982
+Brazil,Scotland,47379,6/18/1982
+Argentina,Hungary,32093,6/18/1982
+Chile,Austria,22500,6/17/1982
+Czechoslovakia,Kuwait,25000,6/17/1982
+Yugoslavia,Northern Ireland,25000,6/17/1982
+England,France,44172,6/16/1982
+West Germany,Algeria,42000,6/16/1982
+Spain,Honduras,49562,6/16/1982
+Peru,Cameroon,11000,6/15/1982
+Hungary,El Salvador,23000,6/15/1982
+Scotland,New Zealand,36000,6/15/1982
+Italy,Poland,33000,6/14/1982
+Brazil,Soviet Union,68000,6/14/1982
+Argentina,Belgium,95000,6/13/1982
+Argentina,Netherlands,71483,6/25/1978
+Brazil,Italy,69659,6/24/1978
+Netherlands,Italy,67433,6/21/1978
+Austria,West Germany,38318,6/21/1978
+Brazil,Poland,39586,6/21/1978
+Argentina,Peru,37315,6/21/1978
+Poland,Peru,35288,6/18/1978
+West Germany,Netherlands,40750,6/18/1978
+Italy,Austria,66695,6/18/1978
+Argentina,Brazil,37326,6/18/1978
+Netherlands,Austria,25050,6/14/1978
+West Germany,Italy,67547,6/14/1978
+Brazil,Peru,31278,6/14/1978
+Argentina,Poland,37091,6/14/1978
+Brazil,Austria,35221,6/11/1978
+Spain,Sweden,42132,6/11/1978
+Peru,IR Iran,21262,6/11/1978
+Scotland,Netherlands,35130,6/11/1978
+France,Hungary,23127,6/10/1978
+Poland,Mexico,22651,6/10/1978
+West Germany,Tunisia,30667,6/10/1978
+Italy,Argentina,71712,6/10/1978
+Austria,Sweden,41424,6/7/1978
+Brazil,Spain,34771,6/7/1978
+Netherlands,Peru,28125,6/7/1978
+Scotland,IR Iran,7938,6/7/1978
+Italy,Hungary,26533,6/6/1978
+West Germany,Mexico,35258,6/6/1978
+Poland,Tunisia,9624,6/6/1978
+Argentina,France,71666,6/6/1978
+Sweden,Brazil,32569,6/3/1978
+Austria,Spain,40841,6/3/1978
+Peru,Scotland,37927,6/3/1978
+Netherlands,IR Iran,33431,6/3/1978
+Italy,France,42373,6/2/1978
+Tunisia,Mexico,17396,6/2/1978
+Argentina,Hungary,71615,6/2/1978
+West Germany,Poland,67579,6/1/1978
+Netherlands,West Germany,78200,7/7/1974
+Brazil,Poland,77100,7/6/1974
+Poland,West Germany,62000,7/3/1974
+Netherlands,Brazil,53700,7/3/1974
+Argentina,Germany DR,54254,7/3/1974
+Sweden,Yugoslavia,41300,7/3/1974
+Poland,Yugoslavia,58000,6/30/1974
+Argentina,Brazil,39400,6/30/1974
+Germany DR,Netherlands,68348,6/30/1974
+West Germany,Sweden,67800,6/30/1974
+Yugoslavia,West Germany,67385,6/26/1974
+Brazil,Germany DR,59863,6/26/1974
+Sweden,Poland,44955,6/26/1974
+Netherlands,Argentina,56548,6/26/1974
+Bulgaria,Netherlands,53300,6/23/1974
+Poland,Italy,70100,6/23/1974
+Sweden,Uruguay,28300,6/23/1974
+Argentina,Haiti,25900,6/23/1974
+Scotland,Yugoslavia,56000,6/22/1974
+Australia,Chile,17400,6/22/1974
+Zaire,Brazil,36200,6/22/1974
+Germany DR,West Germany,60200,6/22/1974
+Haiti,Poland,25300,6/19/1974
+Bulgaria,Uruguay,13400,6/19/1974
+Netherlands,Sweden,53700,6/19/1974
+Argentina,Italy,70100,6/19/1974
+Australia,West Germany,53300,6/18/1974
+Yugoslavia,Zaire,31700,6/18/1974
+Chile,Germany DR,28300,6/18/1974
+Scotland,Brazil,62000,6/18/1974
+Uruguay,Netherlands,55100,6/15/1974
+Sweden,Bulgaria,23800,6/15/1974
+Italy,Haiti,53000,6/15/1974
+Poland,Argentina,32700,6/15/1974
+West Germany,Chile,81100,6/14/1974
+Germany DR,Australia,17000,6/14/1974
+Zaire,Scotland,27000,6/14/1974
+Brazil,Yugoslavia,62000,6/13/1974
+Brazil,Italy,107412,6/21/1970
+West Germany,Uruguay,104403,6/20/1970
+Italy,West Germany,102444,6/17/1970
+Brazil,Uruguay,51261,6/17/1970
+Brazil,Peru,54233,6/14/1970
+Italy,Mexico,26851,6/14/1970
+Uruguay,Soviet Union,26085,6/14/1970
+West Germany,England,23357,6/14/1970
+Mexico,Belgium,108192,6/11/1970
+Italy,Israel,9890,6/11/1970
+Bulgaria,Morocco,12299,6/11/1970
+England,Czechoslovakia,49292,6/11/1970
+West Germany,Peru,17875,6/10/1970
+Brazil,Romania,50804,6/10/1970
+Sweden,Uruguay,18163,6/10/1970
+Soviet Union,El Salvador,89979,6/10/1970
+Mexico,El Salvador,103058,6/7/1970
+Brazil,England,66843,6/7/1970
+West Germany,Bulgaria,12710,6/7/1970
+Sweden,Israel,9624,6/7/1970
+Romania,Czechoslovakia,56818,6/6/1970
+Uruguay,Italy,29968,6/6/1970
+Soviet Union,Belgium,95261,6/6/1970
+Peru,Morocco,13537,6/6/1970
+Belgium,El Salvador,92205,6/3/1970
+Brazil,Czechoslovakia,52897,6/3/1970
+Italy,Sweden,13433,6/3/1970
+West Germany,Morocco,12942,6/3/1970
+England,Romania,50560,6/2/1970
+Peru,Bulgaria,13765,6/2/1970
+Uruguay,Israel,20654,6/2/1970
+Mexico,Soviet Union,107160,5/31/1970
+England,West Germany,96924,7/30/1966
+Portugal,Soviet Union,87696,7/28/1966
+England,Portugal,94493,7/26/1966
+West Germany,Soviet Union,38273,7/25/1966
+Portugal,Korea DPR,40248,7/23/1966
+England,Argentina,90584,7/23/1966
+Soviet Union,Hungary,26844,7/23/1966
+West Germany,Uruguay,40007,7/23/1966
+England,France,98270,7/20/1966
+Hungary,Bulgaria,24129,7/20/1966
+West Germany,Spain,42187,7/20/1966
+Soviet Union,Chile,16027,7/20/1966
+Uruguay,Mexico,61112,7/19/1966
+Argentina,Switzerland,32127,7/19/1966
+Portugal,Brazil,58479,7/19/1966
+Korea DPR,Italy,17829,7/19/1966
+West Germany,Argentina,46587,7/16/1966
+Soviet Union,Italy,27793,7/16/1966
+Portugal,Bulgaria,25438,7/16/1966
+England,Mexico,92570,7/16/1966
+Spain,Switzerland,32028,7/15/1966
+Uruguay,France,45662,7/15/1966
+Hungary,Brazil,51387,7/15/1966
+Korea DPR,Chile,13792,7/15/1966
+Argentina,Spain,42738,7/13/1966
+France,Mexico,69237,7/13/1966
+Italy,Chile,27199,7/13/1966
+Portugal,Hungary,29886,7/13/1966
+Brazil,Bulgaria,47308,7/12/1966
+Soviet Union,Korea DPR,23006,7/12/1966
+West Germany,Switzerland,36127,7/12/1966
+England,Uruguay,87148,7/11/1966
+Brazil,Czechoslovakia,68679,6/17/1962
+Chile,Yugoslavia,66697,6/16/1962
+Brazil,Chile,76594,6/13/1962
+Czechoslovakia,Yugoslavia,5890,6/13/1962
+Chile,Soviet Union,17268,6/10/1962
+Brazil,England,17736,6/10/1962
+Czechoslovakia,Hungary,11690,6/10/1962
+Yugoslavia,West Germany,63324,6/10/1962
+England,Bulgaria,5700,6/7/1962
+Mexico,Czechoslovakia,10648,6/7/1962
+Italy,Switzerland,59828,6/7/1962
+Yugoslavia,Colombia,7167,6/7/1962
+West Germany,Chile,67224,6/6/1962
+Soviet Union,Uruguay,9973,6/6/1962
+Hungary,Argentina,7945,6/6/1962
+Brazil,Spain,18715,6/6/1962
+Spain,Mexico,11875,6/3/1962
+Soviet Union,Colombia,8040,6/3/1962
+Hungary,Bulgaria,7442,6/3/1962
+West Germany,Switzerland,64922,6/3/1962
+Chile,Italy,66057,6/2/1962
+Brazil,Czechoslovakia,14903,6/2/1962
+England,Argentina,9794,6/2/1962
+Yugoslavia,Uruguay,8829,6/2/1962
+West Germany,Italy,65440,5/31/1962
+Hungary,England,7938,5/31/1962
+Czechoslovakia,Spain,12700,5/31/1962
+Soviet Union,Yugoslavia,9622,5/31/1962
+Chile,Switzerland,65006,5/30/1962
+Uruguay,Colombia,7908,5/30/1962
+Brazil,Mexico,10484,5/30/1962
+Argentina,Bulgaria,7134,5/30/1962
+Brazil,Sweden,49737,6/29/1958
+France,West Germany,32483,6/28/1958
+Sweden,West Germany,49471,6/24/1958
+Brazil,France,27100,6/24/1958
+France,Northern Ireland,11800,6/19/1958
+West Germany,Yugoslavia,20055,6/19/1958
+Brazil,Wales,25923,6/19/1958
+Sweden,Soviet Union,31900,6/19/1958
+Northern Ireland,Czechoslovakia,6196,6/17/1958
+Wales,Hungary,2823,6/17/1958
+Soviet Union,England,23182,6/17/1958
+Sweden,Wales,30287,6/15/1958
+Paraguay,Yugoslavia,13103,6/15/1958
+West Germany,Northern Ireland,21990,6/15/1958
+Czechoslovakia,Argentina,16418,6/15/1958
+England,Austria,15872,6/15/1958
+Brazil,Soviet Union,50928,6/15/1958
+Hungary,Mexico,13300,6/15/1958
+France,Scotland,13554,6/15/1958
+Sweden,Hungary,38850,6/12/1958
+Soviet Union,Austria,21239,6/11/1958
+West Germany,Czechoslovakia,25000,6/11/1958
+Argentina,Northern Ireland,14174,6/11/1958
+Yugoslavia,France,12217,6/11/1958
+Paraguay,Scotland,11665,6/11/1958
+Brazil,England,40895,6/11/1958
+Mexico,Wales,15150,6/11/1958
+Sweden,Mexico,34107,6/8/1958
+Northern Ireland,Czechoslovakia,10647,6/8/1958
+Hungary,Wales,15343,6/8/1958
+Yugoslavia,Scotland,9591,6/8/1958
+Brazil,Austria,17788,6/8/1958
+Soviet Union,England,49348,6/8/1958
+France,Paraguay,16518,6/8/1958
+Argentina,West Germany,31156,6/8/1958
+Germany,Hungary,62500,7/4/1954
+Austria,Uruguay,32000,7/3/1954
+Hungary,Uruguay,45000,6/30/1954
+Germany,Austria,58000,6/30/1954
+Germany,Yugoslavia,17000,6/27/1954
+Hungary,Brazil,40000,6/27/1954
+Uruguay,England,28000,6/26/1954
+Switzerland,Austria,35000,6/26/1954
+Germany,Türkiye,17000,6/23/1954
+Switzerland,Italy,30000,6/23/1954
+Hungary,Germany,56000,6/20/1954
+Türkiye,Korea Republic,4000,6/20/1954
+Italy,Belgium,24000,6/20/1954
+Switzerland,England,43500,6/20/1954
+Uruguay,Scotland,34000,6/19/1954
+Brazil,Yugoslavia,24637,6/19/1954
+Austria,Czechoslovakia,26000,6/19/1954
+France,Mexico,19000,6/19/1954
+Switzerland,Italy,43000,6/17/1954
+Hungary,Korea Republic,13000,6/17/1954
+Germany,Türkiye,28000,6/17/1954
+England,Belgium,14000,6/17/1954
+Uruguay,Czechoslovakia,20500,6/16/1954
+Yugoslavia,France,16000,6/16/1954
+Brazil,Mexico,13470,6/16/1954
+Austria,Scotland,25000,6/16/1954
+Sweden,Spain,11227,7/16/1950
+Uruguay,Brazil,173850,7/16/1950
+Brazil,Spain,152772,7/13/1950
+Uruguay,Sweden,7987,7/13/1950
+Brazil,Sweden,138886,7/9/1950
+Uruguay,Spain,44802,7/9/1950
+Chile,United States,8501,7/2/1950
+Italy,Paraguay,25811,7/2/1950
+Uruguay,Bolivia,5284,7/2/1950
+Spain,England,74462,7/2/1950
+Switzerland,Mexico,3580,7/2/1950
+Brazil,Yugoslavia,142429,7/1/1950
+Spain,Chile,19790,6/29/1950
+United States,England,10151,6/29/1950
+Sweden,Paraguay,7903,6/29/1950
+Brazil,Switzerland,42032,6/28/1950
+Yugoslavia,Mexico,11078,6/28/1950
+Sweden,Italy,36502,6/25/1950
+England,Chile,29703,6/25/1950
+Spain,United States,9511,6/25/1950
+Yugoslavia,Switzerland,7336,6/25/1950
+Brazil,Mexico,81649,6/24/1950
+Brazil,Sweden,12000,6/19/1938
+Italy,Hungary,45000,6/19/1938
+Hungary,Sweden,20000,6/16/1938
+Italy,Brazil,33000,6/16/1938
+Brazil,Czechoslovakia,18141,6/14/1938
+Sweden,Cuba,7000,6/12/1938
+Brazil,Czechoslovakia,22021,6/12/1938
+Hungary,Switzerland,15000,6/12/1938
+Italy,France,58455,6/12/1938
+Switzerland,Germany,20025,6/9/1938
+Cuba,Romania,8000,6/9/1938
+Italy,Norway,19000,6/5/1938
+Cuba,Romania,7000,6/5/1938
+Hungary,Dutch East Indies,9000,6/5/1938
+France,Belgium,30454,6/5/1938
+Brazil,Poland,13452,6/5/1938
+Czechoslovakia,Netherlands,11000,6/5/1938
+Switzerland,Germany,27152,6/4/1938
+Italy,Czechoslovakia,55000,6/10/1934
+Germany,Austria,7000,6/7/1934
+Czechoslovakia,Germany,15000,6/3/1934
+Italy,Austria,35000,6/3/1934
+Italy,Spain,43000,6/1/1934
+Austria,Hungary,23000,5/31/1934
+Czechoslovakia,Switzerland,12000,5/31/1934
+Italy,Spain,35000,5/31/1934
+Germany,Sweden,3000,5/31/1934
+Czechoslovakia,Romania,9000,5/27/1934
+Hungary,Egypt,9000,5/27/1934
+Austria,France,16000,5/27/1934
+Switzerland,Netherlands,33000,5/27/1934
+Sweden,Argentina,14000,5/27/1934
+Spain,Brazil,21000,5/27/1934
+Germany,Belgium,8000,5/27/1934
+Italy,United States,25000,5/27/1934
+Uruguay,Argentina,68346,7/30/1930
+Uruguay,Yugoslavia,79867,7/27/1930
+Argentina,United States,72886,7/26/1930
+Argentina,Chile,41459,7/22/1930
+Uruguay,Romania,70022,7/21/1930
+Brazil,Bolivia,25466,7/20/1930
+Paraguay,Belgium,12000,7/20/1930
+Chile,France,2000,7/19/1930
+Argentina,Mexico,42100,7/19/1930
+Uruguay,Peru,57735,7/18/1930
+Yugoslavia,Bolivia,18306,7/17/1930
+United States,Paraguay,18306,7/17/1930
+Chile,Mexico,9249,7/16/1930
+Argentina,France,23409,7/15/1930
+Yugoslavia,Brazil,24059,7/14/1930
+Romania,Peru,2549,7/14/1930
+United States,Belgium,18346,7/13/1930
+France,Mexico,4444,7/13/1930
